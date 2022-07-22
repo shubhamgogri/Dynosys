@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="agree_with_terms_and_conditions">Agree with Terms and Conditions.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="life">Life</string>
+    <string name="yourself">Yourself</string>
+    <string name="hard_work">Hard Work</string>
+    <string name="action">Action</string>
+    <string name="logout">"Log Out "</string>
+</resources>
